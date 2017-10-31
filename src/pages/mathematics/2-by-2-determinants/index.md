@@ -14,7 +14,7 @@ for eg :
  
  will changed to 
  |2  -3|
- |-6  5|.
+ |-6  5|
 #### More Information:
 <a href='https://github.com/freeCodeCamp/guides/blob/master/src/pages/mathematics/determinant-of-a-matrix/index.md "Determinant of a Matrix"' target='_blank' rel='nofollow'>Determinant of a Matrix</a>
 
